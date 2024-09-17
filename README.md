@@ -19,7 +19,7 @@ Sigue estos pasos para clonar el repositorio e instalar las dependencias:
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/albertobarbanog/hotel-reservas
 
 ## PORT por defecto en el ENV: 5001
 
