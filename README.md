@@ -21,10 +21,10 @@ Sigue estos pasos para clonar el repositorio e instalar las dependencias:
    ```bash
    git clone https://github.com/tu-usuario/tu-repositorio.git
 
-## PORT por defecto en el ENV en 5001
+## PORT por defecto en el ENV: 5001
 
 # Instala las dependencias y inicia el servidor en modo desarrollo
-cd tu-repositorio
-npm install
-npm run dev
+      cd tu-repositorio
+      npm install
+      npm run dev
 
