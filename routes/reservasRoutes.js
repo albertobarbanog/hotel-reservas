@@ -84,6 +84,10 @@ const reservasController = require('../controllers/reservasController');
  *                         type: integer
  *                         description: Número de huéspedes.
  *                         example: 2
+ *                       estado:
+ *                         type: string
+ *                         description: Estado.
+ *                         example: "confirmada"
  */
 router.get('/', reservasController.obtenerReservas);
 

@@ -1,3 +1,4 @@
+// Ejemplos
 let reservas = [
   {
     id: 1,
@@ -14,6 +15,22 @@ let reservas = [
     tipo_habitacion: 'suite',
     num_huespedes: 4,
     estado: 'pendiente',
+  },
+  {
+    id: 3,
+    hotel: 'Hotel Boric',
+    fecha_reserva: '2023-06-07',
+    tipo_habitacion: 'suite',
+    num_huespedes: 4,
+    estado: 'pendiente',
+  },
+  {
+    id: 4,
+    hotel: 'Hotel Full Stack',
+    fecha_reserva: '2024-05-12',
+    tipo_habitacion: 'single',
+    num_huespedes: 6,
+    estado: 'confirmada',
   },
 ];
 
