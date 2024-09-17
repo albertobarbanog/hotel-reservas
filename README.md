@@ -1,4 +1,5 @@
 # hotel-reservas
+
 Modulo NODE JS
 
 # Sistema de Gestión de Reservas de Hoteles
@@ -20,11 +21,18 @@ Sigue estos pasos para clonar el repositorio e instalar las dependencias:
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/albertobarbanog/hotel-reservas
+   ```
 
 ## PORT por defecto en el ENV: 5001
 
 # Instala las dependencias y inicia el servidor en modo desarrollo
+
       cd tu-repositorio
       npm install
       npm run dev
 
+## Prueba en Render
+
+https://hotel-reservas.onrender.com
+
+#
